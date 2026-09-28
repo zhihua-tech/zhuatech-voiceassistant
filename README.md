@@ -1,5 +1,7 @@
 # ZhuaTech Voice Assistant｜知华科技智能语音对话系统
 
+[简体中文](README.md) | [English](README.en.md)
+
 ZhuaTech Voice Assistant 是上海如静知华信息科技有限公司面向“语音服务运营”场景推出的社区源码项目。面向客服热线和语音服务场景的对话编排与质量控制系统。让语音接待、知识问答和人工转接保持同一业务上下文。
 
 [知华科技官网](https://www.zhuatech.cn/) · Java 包名 `cn.zhuatech.voiceassistant` · API `POST /api/voiceassistant/run`
